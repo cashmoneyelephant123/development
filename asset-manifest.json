@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/development/static/css/main.f54dad18.css",
+    "main.css": "/development/static/css/main.73441e62.css",
     "main.js": "/development/static/js/main.3b21275f.js",
     "static/js/787.bd761b61.chunk.js": "/development/static/js/787.bd761b61.chunk.js",
     "static/media/nba-logo-transparent.png": "/development/static/media/nba-logo-transparent.fb65b6aa3a203cca2dd7.png",
     "index.html": "/development/index.html",
-    "main.f54dad18.css.map": "/development/static/css/main.f54dad18.css.map",
+    "main.73441e62.css.map": "/development/static/css/main.73441e62.css.map",
     "main.3b21275f.js.map": "/development/static/js/main.3b21275f.js.map",
     "787.bd761b61.chunk.js.map": "/development/static/js/787.bd761b61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f54dad18.css",
+    "static/css/main.73441e62.css",
     "static/js/main.3b21275f.js"
   ]
 }
